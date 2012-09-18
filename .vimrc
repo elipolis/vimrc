@@ -13,3 +13,4 @@ syntax on
 set ruler
 set ignorecase
 set showmode
+set ai
