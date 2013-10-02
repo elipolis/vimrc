@@ -14,3 +14,4 @@ set ruler
 set ignorecase
 set showmode
 set ai
+set mouse=anicr
